@@ -1,0 +1,56 @@
+Fonética{
+  c = tse
+  f = ef
+  g = Guest
+  h = ja
+  j = iot
+  l = el
+  m = em
+  n = en
+  r = er
+  s = es
+  v = fau
+  w = ve
+  x = ix
+  y = ypsilon
+  z = tst
+  ä(umlaut) = e
+  ö = o-u
+  ü = i-u		
+  chs - x
+}
+
+Verbos
+{
+  Verbos Regurales
+  {
+    Fragen-Preguntar
+    antworten-contestar
+    heissen(jaisen)-llamarse
+    wohnen(voonen)-vivir
+  }
+
+  Irregulares
+  {
+    sollen(solen)-deber
+  }
+
+  muss = must
+}
+
+Pronombres{
+  es-ello
+  wir(via)-nosotros
+  ihr(ia)-ustedes
+}
+
+Conjugación{
+  ich e
+  du st
+}
+
+umlaut = dierecis
+vorne = adelante
+jetze = ahora
+auf viedersehen
+mas o menos (zo-zo)
